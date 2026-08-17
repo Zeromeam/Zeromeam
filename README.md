@@ -10,8 +10,9 @@ clear technical communication.
 
 - [medoali.at](https://medoali.at) — interactive, evidence-first project case
   studies
-- [xLSTM hybrid benchmarks](https://github.com/Zeromeam/xlstm_project) —
-  architecture and capacity experiments on MQAR and formal-language tasks
+- [xLSTM block ablations](https://github.com/Zeromeam/xlstm_project) —
+  capacity-matched comparisons of sLSTM, mLSTM, LSTM, and Transformer blocks on
+  MQAR and formal-language tasks
 - [Depixelation](https://github.com/Zeromeam/depixelation) — aligned inspection
   of corrupted, reconstructed, and reference image regions
 - [Bird recognition from sound](https://github.com/Zeromeam/bird_recognition) —
