@@ -3,24 +3,24 @@
 **Applied AI engineer in Vienna working across retrieval, language, vision, and
 sequence models—with evaluation built into the system.**
 
-I build AI systems that earn their answers: the implementation matters, but so
-do the experiment design, evidence trail, failure boundaries, and clarity of the
-explanation.
+I build AI systems with careful experiment design, measurable evaluation, and
+clear technical communication.
 
 ## Selected work
 
 - [medoali.at](https://medoali.at) — interactive, evidence-first project case
   studies
-- [xLSTM hybrid benchmarks](https://github.com/Zeromeam/xlstm_project) —
-  architecture and capacity experiments on MQAR and formal-language tasks
+- [xLSTM block ablations](https://github.com/Zeromeam/xlstm_project) —
+  capacity-matched comparisons of sLSTM, mLSTM, LSTM, and Transformer blocks on
+  MQAR and formal-language tasks
 - [Depixelation](https://github.com/Zeromeam/depixelation) — aligned inspection
   of corrupted, reconstructed, and reference image regions
 - [Bird recognition from sound](https://github.com/Zeromeam/bird_recognition) —
   Mel, MFCC, and engineered-feature branches evaluated with macro-F1
 - [Neural network in C++](https://github.com/Zeromeam/NN_with_cpp) — a
-  from-scratch 784 → 100 → 10 MNIST architecture with an honest reconstruction
+  feed-forward 784 → 100 → 10 classifier for handwritten digits
 
-## What I care about
+## Focus areas
 
 Grounded language-model systems, retrieval evaluation, guardrails, sequence-model
 experiments, interpretable visual evidence, and accessible technical
